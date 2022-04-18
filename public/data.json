@@ -38,18 +38,42 @@
       }
     },
     {
-      "name": "ChatCube",
-      "image": "/projects/Chatcube.png",
-      "about": "ChatCube is a 1:1 chatting application. You can invite your friends and chat with in realtime. You can send them emojis, photos text messages and many more.",
+      "name": "Unscramble",
+      "image": "/projects/dict2.png",
+      "about": "Web app built in Flutter to find definitions of words and partial anagrams. I built both the frontend and backend from scratch. https://unscramble.deta.dev/ for the API base URL.",
       "tech": [
-        "Next.js",
-        "Auth0",
-        "Firebase",
-        "TailwindCSS"
+        "Flutter",
+        "Dart",
+        "Tesseract"
       ],
       "links": {
-        "GitHub": "https://github.com/avneesh0612/ChatCube",
-        "Live": "https://www.chatcube.me"
+        "GitHub": "https://github.com/thecoder-co/unscramble-dictionary",
+        "Live": "https://unscramble-dictionary.web.app/"
+      }
+    },
+    {
+      "name": "Memes app",
+      "image": "/projects/memeb.png",
+      "about": "Flutter android app to display memes scraped from Reddit with the memes-api API.",
+      "tech": [
+        "Flutter",
+        "Dart"
+      ],
+      "links": {
+        "GitHub": "https://github.com/thecoder-co/memes-app",
+        "Live": "https://github.com/thecoder-co/memes-app"
+      }
+    },
+    {
+      "name": "Jar of hearts",
+      "about": "A template I use to build birthday greeting-card type apps.",
+      "tech": [
+        "Flutter",
+        "Dart"
+      ],
+      "links": {
+        "GitHub": "https://github.com/thecoder-co/grace",
+        "Live": "https://github.com/thecoder-co/grace"
       }
     }
   ],
