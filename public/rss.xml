@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Avneesh Agarwal</title>
+        <title>Abimbola Idunnuoluwa</title>
         <link>https://www.avneesh.tech/</link>
-        <description>I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.</description>
+        <description>I'm a flutter developer who thinks about design, architecture, and functionality when writing code. I study and use frameworks. I can recognize patterns and program with style and efficiency using computer science approaches. I am driven to continuously improve my skills and advance professionally.</description>
         <lastBuildDate>Wed, 22 Dec 2021 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -16,9 +16,9 @@
         <copyright>All rights reserved, Avneesh Agarwal</copyright>
         <category>Technology</category>
         <category>Programming</category>
-        <category>Web Development</category>
-        <category>JavaScript</category>
-        <category>Blogger</category>
-        <category>Avneesh Agarwal</category>
+        <category>App Development</category>
+        <category>Flutter</category>
+        <category>Dart</category>
+        <category>Abimbola Idunnuoluiwa</category>
     </channel>
 </rss>

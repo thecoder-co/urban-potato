@@ -33,15 +33,15 @@ function MyApp({ Component, pageProps }: AppProps) {
             },
           ],
           profile: {
-            firstName: "Avneesh",
+            firstName: "Idunnuoluwa",
             gender: "Male",
-            lastName: "Agarwal",
-            username: "avneesh0612",
+            lastName: "Abimbola",
+            username: "Qarr",
           },
         }}
         twitter={{
-          handle: "@avneesh0612",
-          site: "@avneesh0612",
+          handle: "@qarr__",
+          site: "@qarr__",
           cardType: "summary_large_image",
         }}
       />

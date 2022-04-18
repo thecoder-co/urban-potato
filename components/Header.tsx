@@ -82,7 +82,7 @@ const Header = () => {
         offset={-100}
         duration={500}
         href="intro"
-        title="Avneesh"
+        title="Abimbola"
       >
         <Logo className="cursor-pointer" />
       </Link>

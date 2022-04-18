@@ -18,7 +18,7 @@ class MyDocument extends Document {
           />
           <meta
             name="keywords"
-            content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+            content="Abimbola, Idunnuoluwa, Abimbola Idunnuoluwa, Flutter, dart, app dev"
           />
           <link rel="manifest" href="/manifest.json" />
           <link rel="apple-touch-icon" href="/icon.png"></link>

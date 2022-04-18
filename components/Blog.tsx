@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { PostType } from "../types/PostType";
-import Post from "./Post";
+
 import Title from "./Title";
 import data from "../public/data.json";
 import Image from "next/image";
@@ -19,7 +19,6 @@ const Blog: FC<Props> = ({ Posts }) => {
           return (
             <a
               href={`${post.link}`}
-              key={post._id}
               target="_blank"
               rel="noreferrer"
               className="relative flex flex-col m-5 my-5 mt-5 rounded-lg md:mb-0 md:mx-5 w-80 md:w-96 dark:bg-darkerblue"
