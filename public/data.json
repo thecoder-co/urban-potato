@@ -23,18 +23,18 @@
   ],
   "projects": [
     {
-      "name": "Voyager",
-      "image": "/projects/Voyagger.png",
-      "about": "These tough times have made us all aware of the importance of our loved ones and through this app, users can bring a their family and friend's faces by sending them their favoritedelicacy, medicines, or a simple heartfelt gift.",
+      "name": "Shar anonymous messages",
+      "image": "public/projects/shar banner.png",
+      "about": "Shar is an app like kubool that allows you to send anonymous messages to anyone on the app via a link. It was built with a Django backend, and the frontend was built with Flutter.",
       "tech": [
-        "Next.js",
-        "Auth0",
-        "Firebase",
-        "TailwindCSS"
+        "Flutter",
+        "Dart",
+        "Django",
+        "Python"
       ],
       "links": {
-        "GitHub": "https://github.com/avneesh0612/voyagger",
-        "Live": "https://www.voyagger.tech"
+        "GitHub": "https://github.com/thecoder-co/shar",
+        "Live": "https://shar-ec801.web.app/"
       }
     },
     {
