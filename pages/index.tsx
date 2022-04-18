@@ -3,13 +3,13 @@ import Head from "next/head";
 import React, { FC } from "react";
 import {
   About,
-  Blog,
+
   Contact,
   Header,
   Intro,
   Projects,
   Skills,
-  Testimonials,
+
 } from "../components";
 import { PostType } from "../types/PostType";
 import getPosts from "../utils/getPosts";
@@ -24,7 +24,7 @@ const Home: FC<Props> = ({ Posts }) => {
       <Head>
         <meta
           name="keywords"
-          content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+          content="Idunnuoluwa, Abimbola, qarr, flutter, developer, software"
         />
         <link
           rel="alternate"
@@ -42,10 +42,10 @@ const Home: FC<Props> = ({ Posts }) => {
       <main className="relative pl-5 mb-10">
         <Intro />
         <About />
-        <Testimonials />
+
         <Projects />
         <Skills />
-        <Blog Posts={Posts} />
+
         <Contact />
       </main>
     </div>

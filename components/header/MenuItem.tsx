@@ -29,10 +29,7 @@ const headerItems = [
     name: "About",
     href: "about",
   },
-  {
-    name: "Testimonials",
-    href: "testimonials",
-  },
+
   {
     name: "Work",
     href: "work",
@@ -41,10 +38,7 @@ const headerItems = [
     name: "Skills",
     href: "skills",
   },
-  {
-    name: "Blog",
-    href: "blog",
-  },
+
   {
     name: "Contact",
     href: "contact",
