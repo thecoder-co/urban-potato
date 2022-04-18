@@ -42,7 +42,7 @@ const Home: FC<Props> = ({ Posts }) => {
       <main className="relative pl-5 mb-10">
         <Intro />
         <About />
-        <Blog Posts={Posts} />
+        <Blog />
         <Projects />
         <Skills />
 

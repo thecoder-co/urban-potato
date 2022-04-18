@@ -46,19 +46,22 @@
       "name": "Wehaul driver app",
       "image": "/projects/wehauldriver.png",
       "about": "A logistics management app for drivers on the Wehaul Logistics Network",
-      "link": "https://play.google.com/store/apps/details?id=com.wehaul247apps.driver"
+      "link": "https://play.google.com/store/apps/details?id=com.wehaul247apps.driver",
+      "_id": "0"
     },
     {
       "name": "Wehaul app",
       "image": "/projects/wehaulcustomer.png",
       "about": "With Wehaul 247 app, you get to move your goods around for the best prices in the fastest possible time. Getting a vehicle & driver to move your item is really easy, whether dispatch bikes, cars, SUVs, vans, trucks, and much more, there is an available option near you to pick up right now, later in the day or another day.",
-      "link": "https://play.google.com/store/apps/details?id=com.wehaul.customer"
+      "link": "https://play.google.com/store/apps/details?id=com.wehaul.customer",
+      "_id": "1"
     },
     {
       "name": "Cloudmall africa",
       "image": "/projects/cloudmall.png",
       "about": "Cloudmall helps you shop for your everyday needs - Food, Groceries ,Pet Supplies, Pharmacy, Books, Stationeries and more and get it delivered Now.",
-      "link": "https://play.google.com/store/apps/details?id=com.cloudmallafrica.users"
+      "link": "https://play.google.com/store/apps/details?id=com.cloudmallafrica.users",
+      "_id": "2"
     }
   ],
   "projects": [
