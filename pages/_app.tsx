@@ -5,7 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import data from "../public/data.json";
 import Head from "next/head";
-import Script from "next/script";
+
 
 function MyApp({ Component, pageProps }: AppProps) {
   if (typeof window === "object") {
