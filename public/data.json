@@ -19,6 +19,26 @@
       "src": "/logos/flutter.svg",
       "name": "Flutter",
       "link": "https://flutter.dev/"
+    },
+    {
+      "src": "/logos/python-5.svg",
+      "name": "Python",
+      "link": "https://www.python.org/"
+    },
+    {
+      "src": "/logos/fastapi-1.svg",
+      "name": "Fastapi",
+      "link": "https://fastapi.tiangolo.com/"
+    },
+    {
+      "src": "/logos/paystack-2.svg",
+      "name": "Paystack",
+      "link": "https://paystack.com/"
+    },
+    {
+      "src": "/logos/flutterwave-3.svg",
+      "name": "Flutterwave",
+      "link": "https://flutterwave.com"
     }
   ],
   "projects": [
