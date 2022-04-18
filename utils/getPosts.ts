@@ -25,7 +25,7 @@ const getUserDataAndPosts = async (username: string) => {
     body: JSON.stringify({ query: userDataQuery }),
   });
   const userData = await userDataRes.json();
-
+  console.log(userData.data.user);
   return userData.data.user;
 };
 

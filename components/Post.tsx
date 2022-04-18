@@ -31,16 +31,7 @@ const Post: FC<Props> = ({ post }) => {
         <h2 className="text-2xl font-semibold text-neongreen">{post.title}</h2>
         <p className="mt-4 text-base break-words text-text">{post.brief}</p>
       </div>
-      <div className="flex justify-between w-full p-4 mt-auto">
-        <div className="flex">
-          <LikeIcon className="w-6 h-6 mr-2 fill-current text-text" />
-          <p className="text-text">{post.totalReactions}</p>
-        </div>
-        <div className="flex">
-          <CommentIcon className="w-6 h-6 mr-2 fill-current text-text" />
-          <p className="text-text">{post.replyCount + post.responseCount}</p>
-        </div>
-      </div>
+
     </a>
   );
 };

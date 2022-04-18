@@ -3,7 +3,7 @@ import Head from "next/head";
 import React, { FC } from "react";
 import {
   About,
-
+  Blog,
   Contact,
   Header,
   Intro,
@@ -42,7 +42,7 @@ const Home: FC<Props> = ({ Posts }) => {
       <main className="relative pl-5 mb-10">
         <Intro />
         <About />
-
+        <Blog Posts={Posts} />
         <Projects />
         <Skills />
 

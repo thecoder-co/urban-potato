@@ -41,6 +41,15 @@
       "link": "https://flutterwave.com"
     }
   ],
+  "gigs": [
+    {
+      "name": "Shar anonymous messages",
+      "image": "/projects/shar banner.png",
+      "about": "Shar is an app like kubool that allows you to send anonymous messages to anyone on the app via a link. It was built with a Django backend, and the frontend was built with Flutter.",
+      "link": "https://shar-ec801.web.app/",
+      "_id": 1
+    }
+  ],
   "projects": [
     {
       "name": "Shar anonymous messages",
