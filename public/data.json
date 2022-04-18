@@ -86,6 +86,7 @@
     },
     {
       "name": "Jar of hearts",
+      "image": "/projects/jar.png",
       "about": "A template I use to build birthday greeting-card type apps.",
       "tech": [
         "Flutter",
