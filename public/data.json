@@ -6,6 +6,16 @@
   "about": "I've always been fascinated with computers and technology. My first encounter with code was in 2015, when I used HTML to create static websites and Scratch to create games. In 2020, I began coding in Python and Dart/Flutter, and I plan to increase my talents to encompass backend development in the near future. I spend my free time coding, watching YouTube videos, and scrolling around tiktok. I'd want to collaborate with you on making your app a reality.🤓",
   "skills": [
     {
+      "src": "/logos/flutter.svg",
+      "name": "Flutter",
+      "link": "https://flutter.dev/"
+    },
+    {
+      "src": "/logos/dart.svg",
+      "name": "Dart",
+      "link": "https://dart.dev/"
+    },
+    {
       "src": "/logos/firebase.svg",
       "name": "Firebase",
       "link": "https://firebase.google.com/"
@@ -14,11 +24,6 @@
       "src": "/logos/github.svg",
       "name": "GitHub",
       "link": "https://github.com/"
-    },
-    {
-      "src": "/logos/flutter.svg",
-      "name": "Flutter",
-      "link": "https://flutter.dev/"
     },
     {
       "src": "/logos/python-5.svg",

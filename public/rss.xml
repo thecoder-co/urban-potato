@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>Abimbola Idunnuoluwa</title>
-        <link>https://www.avneesh.tech/</link>
+        <link>https://qarr.vercel.app/</link>
         <description>I'm a flutter developer who thinks about design, architecture, and functionality when writing code. I study and use frameworks. I can recognize patterns and program with style and efficiency using computer science approaches. I am driven to continuously improve my skills and advance professionally.</description>
         <lastBuildDate>Wed, 22 Dec 2021 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>Avneesh Agarwal</title>
-            <url>https://www.avneesh.tech/og-image.png</url>
-            <link>https://www.avneesh.tech/</link>
+            <title>Abimbola Idunnuoluwa</title>
+            <url>https://qarr.vercel.app/Me.png</url>
+            <link>https://qarr.vercel.app/</link>
         </image>
         <copyright>All rights reserved, Avneesh Agarwal</copyright>
         <category>Technology</category>

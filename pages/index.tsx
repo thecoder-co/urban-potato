@@ -30,7 +30,7 @@ const Home: FC<Props> = ({ Posts }) => {
           rel="alternate"
           type="application/rss+xml"
           title="RSS"
-          href="https://www.avneesh.tech/rss.xml"
+          href="https://qarr.vercel.app/rss.xml"
         />
         <link rel="icon" href="/logo.svg" />
       </Head>

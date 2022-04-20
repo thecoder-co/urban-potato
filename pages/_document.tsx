@@ -14,7 +14,7 @@ class MyDocument extends Document {
             rel="alternate"
             type="application/rss+xml"
             title="RSS"
-            href="https://www.avneesh.tech/rss.xml"
+            href="https://qarr.vercel.app/rss.xml"
           />
           <meta
             name="keywords"

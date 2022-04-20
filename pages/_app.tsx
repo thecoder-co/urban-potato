@@ -19,14 +19,14 @@ function MyApp({ Component, pageProps }: AppProps) {
         titleTemplate={data.name}
         defaultTitle={data.name}
         description={data.about}
-        canonical="https://www.avneesh.tech/"
+        canonical="https://qarr.vercel.app/"
         openGraph={{
-          url: "https://www.avneesh.tech/",
+          url: "https://qarr.vercel.app/",
           title: data.name,
           description: data.about,
           images: [
             {
-              url: "https://www.avneesh.tech/og-image.png",
+              url: "https://qarr.vercel.app/Me.png",
               width: 800,
               height: 420,
               alt: data.name,
@@ -50,11 +50,11 @@ function MyApp({ Component, pageProps }: AppProps) {
           rel="alternate"
           type="application/rss+xml"
           title="RSS"
-          href="https://www.avneesh.tech/rss.xml"
+          href="https://qarr.vercel.app/rss.xml"
         />
         <meta
           property="og:image"
-          content="https://www.avneesh.tech/og-image.png"
+          content="https://qarr.vercel.app/Me.png"
         />
       </Head>
       <Component {...pageProps} />
